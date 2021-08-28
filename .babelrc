@@ -10,7 +10,7 @@
         "@babel/preset-react"
     ],
     "plugins": [
-        "react-hot-loader"
+        "react-hot-loader/babel"
     ]
 
 }
